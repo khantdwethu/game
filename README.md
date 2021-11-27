@@ -1,4 +1,3 @@
 # game
-Just testing
-Here website for demo
+Mobile only
 https://khantdwethu.github.io/game/
